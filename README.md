@@ -17,4 +17,4 @@ This repository contains a compilation of compression test datasets, found acros
 ## FAQ
 
 - **Q**: Why copy this data into a new repository? Why not just download it from the original location where it was hosted?
-  _A_: The original source of most of this data was either of a hobbyist or academic nature. As such, the idea of repeatedly downloading this data from the original hosts for testing and benchmarking seemed to me to be morally wrong; I would hate to cost these organizations money by repeatedly downloading these extremely helpful datasets which they have freely and generously provided. Thus, reuploading the data on Github for future download seemed preferable.
+  - **A**: The original source of most of this data was either of a hobbyist or academic nature. As such, the idea of repeatedly downloading this data from the original hosts for testing and benchmarking seemed to me to be morally wrong; I would hate to cost these organizations money by repeatedly downloading these extremely helpful datasets which they have freely and generously provided. Thus, reuploading the data on Github for future download seemed preferable.
